@@ -6,12 +6,12 @@ This is the public distribution repository for **Luna SCADA™**, a lightweight 
 
 Download the latest pre-compiled binary for Windows x64:
 
-- **[LunaScada-v1.0.7-Setup.exe](https://github.com/lunasoft-llc/luna-scada/releases/download/v1.0.7/LunaScada-v1.0.7-Setup.exe)** (Windows Installer)
+- **[LunaScada-v1.0.8-Setup.exe](https://github.com/lunasoft-llc/luna-scada/releases/download/v1.0.8/LunaScada-v1.0.8-Setup.exe)** (Windows Installer)
 
 ## Release Information
 
-- **Version**: 1.0.7
-- **Release Date**: 2026-07-12
+- **Version**: 1.0.8
+- **Release Date**: 2026-07-19
 - **Developer**: [LunaSoft.az](https://lunasoft.az)
 
 ## Troubleshooting
